@@ -1,0 +1,45 @@
+[guid]
+        guid_g0                          = 5627317999940724443
+        guid_g1                          = 503233673112752778
+ 
+[main]
+        objects_count                    = 1
+        version                          = 0
+ 
+[modif]
+        name                             =
+        time                             = 0
+ 
+[object_0]
+        clsid                            = 0
+        co_flags                         = 0
+        ingroup_count                    = 2
+        name                             = group_0000
+        position                         = -422.389024, 0.010846, -374.973856
+        ref_name                         =
+        rotation                         = -0.000040, -0.003061, 0.001499
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_0_ingroup_0]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\cover\cover_wood_box_3_0003
+        position                         = -422.389024, 0.010846, -374.973856
+        reference_name                   = statics\cover\cover_wood_box_3
+        rotation                         = -0.000040, -0.003061, 0.001499
+        scale                            = 0.947800, 0.947800, 0.947800
+        version                          = 18
+ 
+[object_0_ingroup_1]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = statics\konteyner\konteyner_small_01_0011
+        position                         = -422.648736, 0.029228, -373.439712
+        reference_name                   = statics\konteyner\konteyner_small_01
+        rotation                         = 0.005469, 0.003232, -0.011993
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 

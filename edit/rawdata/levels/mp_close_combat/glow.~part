@@ -1,0 +1,26 @@
+[guid]
+        guid_g0                          = 5627317999940724443
+        guid_g1                          = 503233673112752778
+ 
+[main]
+        flags                            = 0
+        glow_tool_version                = 0
+        objects_count                    = 1
+ 
+[modif]
+        name                             =
+        time                             = 0
+ 
+[object_0]
+        clsid                            = 1
+        co_flags                         = 0
+        flags                            = 0
+        name                             = glow
+        position                         = -479.138848, 3.306470, -493.196736
+        radius                           = 0.500000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 0.500000, 0.500000, 0.500000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_fire1
+        version                          = 18
+ 

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding="windows-1251"?>
+
+<xml>
+	<specific_character id="escape_trader" team_default = "1">
+		<name>Сидорович</name>
+		<icon x="0" y="9"></icon>
+		<map_icon x="0" y="4"></map_icon>
+		<bio>Промышлял торговлей с малых лет. В детском садике продавал цветные карандаши.
+		В школе торговал жевательной резинкой.
+		В институте промышлял продажей легкой наркоты. С появлением Зоны смекнул, что на
+		этом можно хорошо заработать. Славится тем, что способен наладить хорошие торговые
+		отношения с самыми разношерстными клиентами.</bio>
+
+		<team>Trader</team>
+		<rank>50</rank>
+		<reputation>50</reputation>
+		<supplies>
+			[spawn] \n
+			wpn_fn2000 \n
+			wpn_colt1911 \n
+			wpn_walther \n
+			wpn_ak74 \n
+			wpn_mp5 \n
+			wpn_spas12 \n
+			wpn_svu \n
+			wpn_usp \n
+			wpn_val \n
+                                          wpn_rpg7 \n
+                                          wpn_svd \n      
+			wpn_gauss \n    
+			wpn_hpsa \n
+			wpn_groza \n
+			wpn_fort \n
+			wpn_beretta \n	
+			wpn_vintorez \n
+			wpn_pm \n
+			wpn_l85 \n
+			wpn_lr300 \n
+			wpn_bm16 \n	
+			wpn_addon_scope \n
+			wpn_addon_grenade_launcher \n     
+			wpn_addon_grenade_launcher_m203 \n        
+			bread = 1 \n
+			conserva = 1 \n
+			wpn_val \n
+			stalker_outfit \n
+			military_outfit \n
+			protection_outfit \n
+			exo_outfit \n
+    			scientific_outfit \n
+			ammo_og-7b = 5 \n
+			ammo_9x19_fmj = 10 \n
+			ammo_9x39_sp5 = 10 \n
+			ammo_5.56x45_ss190 = 10 \n
+			ammo_5.45x39_fmj = 10 \n
+			ammo_vog-25 = 10 \n
+			ammo_gauss = 10 \n
+			ammo_9x19_pbp = 10 \n
+			ammo_7.62x54_7h1 = 10 \n
+			ammo_7.62x54_7h14 = 10 \n
+			ammo_vog-25p = 10 \n
+			ammo_m209 = 10 \n
+			
+		</supplies>
+		<start_dialog>escape_trader_start_dialog</start_dialog>
+		<actor_dialog>escape_trader_talk_level</actor_dialog>
+		<actor_dialog>escape_trader_talk_about</actor_dialog>
+		<actor_dialog>escape_trader_talk_flame</actor_dialog>
+		<actor_dialog>escape_trader_jobs</actor_dialog>
+	</specific_character>
+
+	<specific_character id="actor" team_default = "1">
+		<name>Меченый</name>
+		<icon x="0" y="9"></icon>
+		<map_icon x="0" y="4"></map_icon>
+
+		<team>Actor</team>
+		<rank>10</rank>
+		<reputation>10</reputation>
+	</specific_character>
+</xml>

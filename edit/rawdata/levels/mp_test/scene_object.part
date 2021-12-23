@@ -1,0 +1,31 @@
+[appendrandom]
+        AppendRandomMaxRotation          = 0.000000, 0.000000, 0.000000
+        AppendRandomMaxScale             = 1.000000, 1.000000, 1.000000
+        AppendRandomMinRotation          = 0.000000, 0.000000, 0.000000
+        AppendRandomMinScale             = 1.000000, 1.000000, 1.000000
+        AppendRandomObjects_size         = 0
+ 
+[guid]
+        guid_g0                          = 5723503490787537849
+        guid_g1                          = 15527435521999281576
+ 
+[main]
+        flags                            = 0
+        objects_count                    = 1
+        version                          = 0
+ 
+[modif]
+        name                             =
+        time                             = 0
+ 
+[object_0]
+        clsid                            = 2
+        co_flags                         = 0
+        flags                            = 0
+        name                             = scenes\mp_test\mp_test_arena
+        position                         = 0.000000, 0.000000, 0.000000
+        reference_name                   = scenes\mp_test\mp_test_arena
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 

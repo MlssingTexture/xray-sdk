@@ -1,0 +1,2133 @@
+[guid]
+        guid_g0                          = 5627317999940724443
+        guid_g1                          = 503233673112752778
+ 
+[main]
+        flags                            = 0
+        objects_count                    = 124
+        version                          = 0
+ 
+[modif]
+        name                             =
+        time                             = 0
+ 
+[object_0]
+        attached_count                   = 1
+        clsid                            = 6
+        co_flags                         = 2
+        name                             = campfire_dinamic_0000
+        position                         = -385.607840, 0.258878, -344.237120
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_0_attached_0]
+        clsid                            = 4
+        co_flags                         = 2
+        name                             = shape_0000
+        position                         = -385.607840, 0.258878, -344.237120
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_center_1                   = 0.000000, 0.558000, 0.000000
+        shape_radius_0                   = 0.387240
+        shape_radius_1                   = 0.674519
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shape_type_1                     = 0
+        shapes_count                     = 2
+        version                          = 2
+ 
+[object_0_spawndata]
+        000001                           = 1
+        000002                           = "campfire"
+        000003                           = "campfire_dinamic_0000"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -385.607840, 0.258878, -344.237120
+        000007                           = 0.000000, 0.000000, 0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -194
+        000024                           = ""
+        000025                           = -1
+        000026                           = -1
+        000027                           = 2
+        000028                           = 0
+        000029                           = 0.000000, 0.000000, 0.000000
+        000030                           = 0.387240
+        000031                           = 0
+        000032                           = 0.000000, 0.558000, 0.000000
+        000033                           = 0.674519
+        000034                           = 3
+        000035                           = 0.000000
+        000036                           = -1
+        000037                           = 0
+        000038                           = 0
+        000039                           = 0
+        000040                           = 30.000000
+        000041                           = 32
+        000042                           = 4
+        fl                               = 0
+        name                             = campfire
+ 
+[object_1]
+        attached_count                   = 1
+        clsid                            = 6
+        co_flags                         = 2
+        name                             = campfire_dinamic_0001
+        position                         = -415.380672, 0.271616, -375.449856
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_10]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 2
+        name                             = deathmatch_$rpoint_0004
+        position                         = -411.183584, 0.044059, -391.541216
+        rotation                         = 0.000806, 0.023622, -0.000017
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 0
+        type                             = 0
+        version                          = 23
+ 
+[object_100]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0061
+        position                         = -428.095008, 0.119066, -389.768352
+        rotation                         = -0.000012, 1.732217, -0.000001
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_101]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0062
+        position                         = -423.073760, 0.098957, -391.087648
+        rotation                         = 0.000012, -1.028983, -0.000004
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_102]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0063
+        position                         = -424.780704, 0.098606, -391.300576
+        rotation                         = 0.000012, -1.028983, -0.000004
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_103]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0064
+        position                         = -426.890816, 0.106712, -391.008064
+        rotation                         = -0.000012, 1.732217, -0.000001
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_104]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0065
+        position                         = -428.872928, 0.116764, -391.096032
+        rotation                         = -0.000012, 1.732217, -0.000001
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_105]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0066
+        position                         = -422.234848, 0.332957, -392.699520
+        rotation                         = 0.000012, -1.028983, -0.000004
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_106]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0067
+        position                         = -423.941792, 0.332606, -392.912448
+        rotation                         = 0.000012, -1.028983, -0.000004
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_107]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0068
+        position                         = -426.051904, 0.340712, -392.619936
+        rotation                         = -0.000012, 1.732217, -0.000001
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_108]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0069
+        position                         = -428.034016, 0.350764, -392.707904
+        rotation                         = -0.000012, 1.732217, -0.000001
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_109]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0070
+        position                         = -423.285056, 0.332957, -394.033920
+        rotation                         = 0.000012, -1.028983, -0.000004
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_11]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 2
+        name                             = deathmatch_$rpoint_0005
+        position                         = -439.537216, 0.209847, -390.612448
+        rotation                         = -0.018793, -1.168000, 0.007720
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 0
+        type                             = 0
+        version                          = 23
+ 
+[object_110]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0071
+        position                         = -424.992000, 0.332606, -394.246816
+        rotation                         = 0.000012, -1.028983, -0.000004
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_111]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0072
+        position                         = -427.102112, 0.340712, -393.954304
+        rotation                         = -0.000012, 1.732217, -0.000001
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_112]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0073
+        position                         = -429.809504, 0.350764, -394.254176
+        rotation                         = -0.000012, 1.732217, -0.000001
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_113]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0074
+        position                         = -422.278432, 0.332957, -395.143776
+        rotation                         = 0.000012, -1.028983, -0.000004
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_114]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0075
+        position                         = -423.985376, 0.332606, -395.356704
+        rotation                         = 0.000012, -1.028983, -0.000004
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_115]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0076
+        position                         = -426.095488, 0.340712, -395.064192
+        rotation                         = -0.000012, 1.732217, -0.000001
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_116]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0077
+        position                         = -428.077600, 0.350764, -395.152160
+        rotation                         = -0.000012, 1.732217, -0.000001
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_117]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 8
+        name                             = deathmatch_$rpoint_0015
+        position                         = -412.484512, 106.437800, -357.234240
+        rotation                         = -0.018793, -1.168000, 0.007720
+        rp_profile                       =
+        rp_type                          = 1
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 0
+        type                             = 0
+        version                          = 23
+ 
+[object_118]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 16
+        name                             = deathmatch_$rpoint_0016
+        position                         = -402.912672, 3.457224, -382.465856
+        rotation                         = -0.018793, -1.168000, 0.007720
+        rp_profile                       =
+        rp_type                          = 1
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_119]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 8
+        name                             = deathmatch_$rpoint_0017
+        position                         = -452.608768, 0.875506, -380.144032
+        rotation                         = -0.018793, -1.168000, 0.007720
+        rp_profile                       =
+        rp_type                          = 1
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 0
+        type                             = 0
+        version                          = 23
+ 
+[object_12]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 2
+        name                             = deathmatch_$rpoint_0006
+        position                         = -456.962848, 0.124805, -340.794528
+        rotation                         = -0.000787, -2.866470, 0.090921
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 0
+        type                             = 0
+        version                          = 23
+ 
+[object_120]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 16
+        name                             = deathmatch_$rpoint_0018
+        position                         = -409.518784, 3.343556, -327.672032
+        rotation                         = -0.018793, -1.168000, 0.007720
+        rp_profile                       =
+        rp_type                          = 1
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_121]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 8
+        name                             = deathmatch_$rpoint_0012
+        position                         = -423.633184, 59.172144, -354.413472
+        rotation                         = -0.018793, -1.168000, 0.007720
+        rp_profile                       =
+        rp_type                          = 1
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 0
+        type                             = 0
+        version                          = 23
+ 
+[object_122]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 8
+        name                             = deathmatch_$rpoint_0013
+        position                         = -405.861152, 49.542504, -353.346144
+        rotation                         = -0.016723, -0.953776, 0.011539
+        rp_profile                       =
+        rp_type                          = 1
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 0
+        type                             = 0
+        version                          = 23
+ 
+[object_123]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 8
+        name                             = deathmatch_$rpoint_0014
+        position                         = -398.447616, 142.860192, -356.033024
+        rotation                         = -0.018793, -1.168000, 0.007720
+        rp_profile                       =
+        rp_type                          = 1
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 0
+        type                             = 0
+        version                          = 23
+ 
+[object_13]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 2
+        name                             = deathmatch_$rpoint_0007
+        position                         = -454.990304, 0.622955, -352.367968
+        rotation                         = 0.021677, -0.300015, -0.086402
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 0
+        type                             = 0
+        version                          = 23
+ 
+[object_14]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 2
+        name                             = deathmatch_$rpoint_0008
+        position                         = -455.412480, 0.227400, -367.113024
+        rotation                         = -0.000025, -0.537616, -0.000062
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 0
+        type                             = 0
+        version                          = 23
+ 
+[object_15]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 2
+        name                             = deathmatch_$rpoint_0009
+        position                         = -445.386400, 0.263506, -380.681856
+        rotation                         = -0.000000, 1.694384, 0.000000
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 0
+        type                             = 0
+        version                          = 23
+ 
+[object_16]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 2
+        name                             = deathmatch_$rpoint_0010
+        position                         = -431.765632, 0.404117, -339.795904
+        rotation                         = -0.000000, 2.072384, 0.000000
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 0
+        type                             = 0
+        version                          = 23
+ 
+[object_17]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 2
+        name                             = deathmatch_$rpoint_0011
+        position                         = -420.678496, 0.078021, -323.388896
+        rotation                         = 0.000000, -1.141802, -0.000000
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 0
+        type                             = 0
+        version                          = 23
+ 
+[object_18]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0003
+        position                         = -414.539840, 0.041839, -326.673408
+        rotation                         = -0.000053, 2.443215, -0.000023
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_19]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0012
+        position                         = -392.816608, 0.042194, -319.697984
+        rotation                         = -0.000013, 2.208602, -0.000011
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_1_attached_0]
+        clsid                            = 4
+        co_flags                         = 2
+        name                             = shape_0000
+        position                         = -415.380672, 0.271616, -375.449856
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_center_1                   = 0.000000, 0.558000, 0.000000
+        shape_radius_0                   = 0.387240
+        shape_radius_1                   = 0.674519
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shape_type_1                     = 0
+        shapes_count                     = 2
+        version                          = 2
+ 
+[object_1_spawndata]
+        000001                           = 1
+        000002                           = "campfire"
+        000003                           = "campfire_dinamic_0001"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -415.380672, 0.271616, -375.449856
+        000007                           = 0.000000, 0.000000, 0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -194
+        000024                           = ""
+        000025                           = -1
+        000026                           = -1
+        000027                           = 2
+        000028                           = 0
+        000029                           = 0.000000, 0.000000, 0.000000
+        000030                           = 0.387240
+        000031                           = 0
+        000032                           = 0.000000, 0.558000, 0.000000
+        000033                           = 0.674519
+        000034                           = 3
+        000035                           = 0.000000
+        000036                           = -1
+        000037                           = 0
+        000038                           = 0
+        000039                           = 0
+        000040                           = 30.000000
+        000041                           = 32
+        000042                           = 4
+        fl                               = 0
+        name                             = campfire
+ 
+[object_2]
+        attached_count                   = 1
+        clsid                            = 6
+        co_flags                         = 2
+        name                             = campfire_dinamic_0004
+        position                         = -445.438656, 0.371517, -371.240096
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_20]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = blue_0011
+        position                         = -427.470304, 0.191373, -386.544608
+        rotation                         = 0.001446, -0.416987, 0.003149
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_21]
+        attached_count                   = 1
+        clsid                            = 6
+        co_flags                         = 2
+        name                             = bluebyezone_0000
+        position                         = -447.544928, 1.127506, -380.563712
+        rotation                         = 0.000000, 1.573201, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_21_attached_0]
+        clsid                            = 4
+        co_flags                         = 2
+        name                             = shape
+        position                         = -447.544928, 1.127506, -380.563712
+        rotation                         = 0.000000, 1.573201, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 8.162708, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 3.440876, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 5.705573
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_21_spawndata]
+        000001                           = 1
+        000002                           = "zone_team_base"
+        000003                           = "bluebyezone_0000"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -447.544928, 1.127506, -380.563712
+        000007                           = 0.000000, 1.573201, -0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 4
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -194
+        000024                           = ""
+        000025                           = -1
+        000026                           = -1
+        000027                           = 1
+        000028                           = 1
+        000029                           = 8.162708, 0.000000, 0.000000
+        000030                           = 0.000000, 3.440876, 0.000000
+        000031                           = 0.000000, 0.000000, 5.705573
+        000032                           = 0.000000, 0.000000, 0.000000
+        000033                           = 0
+        000034                           = 1
+        fl                               = 0
+        name                             = zone_team_base
+ 
+[object_22]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0000
+        position                         = -415.684352, 0.041911, -325.055456
+        rotation                         = -0.000057, 2.842201, -0.000001
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_23]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0001
+        position                         = -417.316640, 0.041900, -324.277152
+        rotation                         = -0.000057, 2.842201, -0.000001
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_24]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0002
+        position                         = -420.653536, 0.041556, -329.465888
+        rotation                         = -0.000012, -2.063984, 0.000056
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_25]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0004
+        position                         = -422.248672, 0.041602, -328.183040
+        rotation                         = -0.000012, -2.063984, 0.000056
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_26]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0005
+        position                         = -420.598688, 0.041667, -327.478368
+        rotation                         = -0.000012, -2.063984, 0.000056
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_27]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0006
+        position                         = -421.466880, 0.042104, -319.219072
+        rotation                         = -0.000005, -2.063984, 0.000016
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_28]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0016
+        position                         = -423.777024, 0.041928, -319.513600
+        rotation                         = 0.000336, -2.063984, 0.000181
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_29]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0017
+        position                         = -422.264832, 0.041982, -321.277568
+        rotation                         = -0.000012, -2.063984, 0.000056
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_2_attached_0]
+        clsid                            = 4
+        co_flags                         = 2
+        name                             = shape_0000
+        position                         = -445.438656, 0.371517, -371.240096
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_center_0                   = 0.000000, 0.000000, 0.000000
+        shape_center_1                   = 0.000000, 0.558000, 0.000000
+        shape_radius_0                   = 0.387240
+        shape_radius_1                   = 0.674519
+        shape_type                       = 0
+        shape_type_0                     = 0
+        shape_type_1                     = 0
+        shapes_count                     = 2
+        version                          = 2
+ 
+[object_2_spawndata]
+        000001                           = 1
+        000002                           = "campfire"
+        000003                           = "campfire_dinamic_0004"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -445.438656, 0.371517, -371.240096
+        000007                           = 0.000000, 0.000000, 0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -194
+        000024                           = ""
+        000025                           = -1
+        000026                           = -1
+        000027                           = 2
+        000028                           = 0
+        000029                           = 0.000000, 0.000000, 0.000000
+        000030                           = 0.387240
+        000031                           = 0
+        000032                           = 0.000000, 0.558000, 0.000000
+        000033                           = 0.674519
+        000034                           = 3
+        000035                           = 0.000000
+        000036                           = -1
+        000037                           = 0
+        000038                           = 0
+        000039                           = 0
+        000040                           = 30.000000
+        000041                           = 32
+        000042                           = 4
+        fl                               = 0
+        name                             = campfire
+ 
+[object_3]
+        attached_count                   = 1
+        clsid                            = 6
+        co_flags                         = 2
+        name                             = bluebyezone
+        position                         = -447.544928, 1.127506, -380.563712
+        rotation                         = 0.000000, 1.573201, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_30]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0018
+        position                         = -415.790080, 0.042117, -319.575424
+        rotation                         = -0.000017, 2.745000, -0.000003
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_31]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0019
+        position                         = -415.863936, 0.042087, -321.618400
+        rotation                         = -0.000017, 2.745000, -0.000003
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_32]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0020
+        position                         = -417.384128, 0.042094, -320.601344
+        rotation                         = -0.000017, 2.745000, -0.000003
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_33]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0007
+        position                         = -394.484864, 0.042194, -319.287648
+        rotation                         = -0.000013, 2.208602, -0.000011
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_34]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0008
+        position                         = -393.967328, 0.042169, -320.945792
+        rotation                         = -0.000013, 2.208602, -0.000011
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_35]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0009
+        position                         = -384.131616, 0.042209, -326.931552
+        rotation                         = -0.000001, -3.102584, 0.000013
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_36]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0010
+        position                         = -388.379296, 0.042184, -328.465984
+        rotation                         = -0.000001, -3.102584, 0.000013
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_37]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0011
+        position                         = -386.796704, 0.042176, -326.540640
+        rotation                         = -0.000001, -3.102584, 0.000013
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_38]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0013
+        position                         = -387.126208, 0.042102, -330.537088
+        rotation                         = -0.000016, 2.725203, -0.000002
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_39]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0014
+        position                         = -388.636064, -0.011840, -330.117824
+        rotation                         = -0.000001, -3.102584, 0.000013
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_3_attached_0]
+        clsid                            = 4
+        co_flags                         = 2
+        name                             = shape
+        position                         = -447.544928, 1.127506, -380.563712
+        rotation                         = 0.000000, 1.573201, -0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 8.162708, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 3.440876, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 5.705573
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_3_spawndata]
+        000001                           = 1
+        000002                           = "zone_team_base"
+        000003                           = "bluebyezone"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -447.544928, 1.127506, -380.563712
+        000007                           = 0.000000, 1.573201, -0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 4
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -194
+        000024                           = ""
+        000025                           = -1
+        000026                           = -1
+        000027                           = 1
+        000028                           = 1
+        000029                           = 8.162708, 0.000000, 0.000000
+        000030                           = 0.000000, 3.440876, 0.000000
+        000031                           = 0.000000, 0.000000, 5.705573
+        000032                           = 0.000000, 0.000000, 0.000000
+        000033                           = 0
+        000034                           = 2
+        fl                               = 0
+        name                             = zone_team_base
+ 
+[object_4]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 2
+        name                             = deathmatch_$rpoint_0000
+        position                         = -391.914240, 0.042197, -319.719232
+        rotation                         = 0.000017, -0.241816, 0.000001
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 0
+        type                             = 0
+        version                          = 23
+ 
+[object_40]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0015
+        position                         = -383.702848, 0.042100, -330.272480
+        rotation                         = -0.000012, 2.255402, 0.000005
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_41]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = blue_0000
+        position                         = -423.935712, 0.187505, -386.647584
+        rotation                         = -0.000299, -0.416981, 0.000754
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_42]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = blue_0001
+        position                         = -426.074912, 0.188717, -388.703872
+        rotation                         = 0.003079, -0.416991, 0.007188
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_43]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = blue_0002
+        position                         = -399.838976, 0.063196, -386.014272
+        rotation                         = -0.000373, -1.291782, 0.000379
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_44]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = blue_0003
+        position                         = -396.659136, 0.061851, -385.516096
+        rotation                         = -0.000373, -1.291782, 0.000379
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_45]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = blue_0004
+        position                         = -397.758368, 0.061840, -387.513568
+        rotation                         = -0.000373, -1.291782, 0.000379
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_46]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = blue_0005
+        position                         = -429.914560, 0.191755, -389.128704
+        rotation                         = 0.000628, 0.844911, 0.000514
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_47]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = blue_0006
+        position                         = -400.480896, 0.061647, -392.026304
+        rotation                         = 0.000493, -0.909474, 0.000637
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_48]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = blue_0007
+        position                         = -399.985984, 0.062185, -390.131264
+        rotation                         = -0.000205, -0.909475, 0.000491
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_49]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = blue_0008
+        position                         = -397.972736, 0.061098, -390.719904
+        rotation                         = -0.000205, -0.909475, 0.000491
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_5]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 12
+        name                             = spectate
+        position                         = -370.774016, 1.489946, -355.073056
+        rotation                         = 0.000000, 1.152000, -0.000000
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 0
+        type                             = 0
+        version                          = 23
+ 
+[object_50]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = blue_0009
+        position                         = -385.871232, 0.060577, -386.145280
+        rotation                         = 0.000202, 0.488510, 0.000100
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_51]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = blue_0010
+        position                         = -383.829696, 0.060358, -385.420544
+        rotation                         = 0.000171, 0.488510, 0.000221
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_52]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = blue_0012
+        position                         = -384.970784, 0.060257, -388.237824
+        rotation                         = 0.000202, 0.488510, 0.000100
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_53]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = blue_0013
+        position                         = -392.316160, 0.060828, -388.419008
+        rotation                         = 0.000032, -1.230490, 0.000191
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_54]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = blue_0014
+        position                         = -393.757120, 0.061113, -387.174080
+        rotation                         = 0.000032, -1.230490, 0.000191
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_55]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = blue_0015
+        position                         = -391.783616, 0.061227, -386.225088
+        rotation                         = 0.000032, -1.230490, 0.000191
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_56]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = blue_0016
+        position                         = -412.553024, 0.061040, -392.852992
+        rotation                         = 0.000194, -1.325275, 0.000782
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_57]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = blue_0017
+        position                         = -408.963552, 0.060880, -393.002528
+        rotation                         = -0.000577, -2.365674, 0.000563
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_58]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = blue_0018
+        position                         = -412.370144, 0.063980, -389.164576
+        rotation                         = 0.000486, 0.926526, -0.000643
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_59]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = blue_0019
+        position                         = -409.696032, 0.063184, -390.143584
+        rotation                         = 0.000560, -0.799675, 0.000579
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_6]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 12
+        name                             = spectate_0000
+        position                         = -460.827072, 1.371763, -345.900064
+        rotation                         = 0.000000, -1.697399, -0.000000
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 0
+        type                             = 0
+        version                          = 23
+ 
+[object_60]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0021
+        position                         = -384.455552, 0.042102, -328.787872
+        rotation                         = -0.000016, 2.725203, -0.000002
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_61]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0022
+        position                         = -385.314784, -0.011845, -329.999008
+        rotation                         = -0.000007, 2.725203, 0.000011
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_62]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0023
+        position                         = -410.139680, 0.042100, -319.021504
+        rotation                         = 0.000011, -1.828183, 0.000006
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_63]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0024
+        position                         = -407.980832, 0.042100, -319.837696
+        rotation                         = 0.000011, -1.828183, 0.000006
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_64]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 4
+        name                             = tdm_green_0025
+        position                         = -410.479616, 0.132115, -320.602144
+        rotation                         = -0.000001, -1.828183, 0.000017
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_65]
+        attached_count                   = 1
+        clsid                            = 6
+        co_flags                         = 2
+        name                             = bluebyezone_0001
+        position                         = -419.132768, 0.599886, -322.715584
+        rotation                         = 0.000000, -3.017983, -0.000000
+        scale                            = 0.751595, 0.614800, 1.909001
+        type                             = 2
+        version                          = 23
+ 
+[object_65_attached_0]
+        clsid                            = 4
+        co_flags                         = 2
+        name                             = shape
+        position                         = -419.132768, 0.599886, -322.715584
+        rotation                         = 0.000000, -3.017983, -0.000000
+        scale                            = 0.751595, 0.614800, 1.909001
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 8.162708, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 3.440876, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 5.705573
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_65_spawndata]
+        000001                           = 1
+        000002                           = "zone_team_base"
+        000003                           = "bluebyezone"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -447.544928, 1.127506, -380.563712
+        000007                           = 0.000000, 1.573201, -0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 28
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -194
+        000024                           = ""
+        000025                           = -1
+        000026                           = -1
+        000027                           = 1
+        000028                           = 1
+        000029                           = 8.162708, 0.000000, 0.000000
+        000030                           = 0.000000, 3.440876, 0.000000
+        000031                           = 0.000000, 0.000000, 5.705573
+        000032                           = 0.000000, 0.000000, 0.000000
+        000033                           = 0
+        000034                           = 1
+        fl                               = 0
+        name                             = zone_team_base
+ 
+[object_66]
+        attached_count                   = 1
+        clsid                            = 6
+        co_flags                         = 2
+        name                             = bluebyezone_0002
+        position                         = -426.111648, 0.303374, -392.578176
+        rotation                         = 0.000000, 3.139202, -0.000000
+        scale                            = 0.893795, 0.713800, 2.079995
+        type                             = 2
+        version                          = 23
+ 
+[object_66_attached_0]
+        clsid                            = 4
+        co_flags                         = 2
+        name                             = shape
+        position                         = -426.111648, 0.303374, -392.578176
+        rotation                         = 0.000000, 3.139202, -0.000000
+        scale                            = 0.893795, 0.713800, 2.079995
+        shape_matrix_c_0                 = 0.000000, 0.000000, 0.000000
+        shape_matrix_i_0                 = 8.162708, 0.000000, 0.000000
+        shape_matrix_j_0                 = 0.000000, 3.440876, 0.000000
+        shape_matrix_k_0                 = 0.000000, 0.000000, 5.705573
+        shape_type                       = 0
+        shape_type_0                     = 1
+        shapes_count                     = 1
+        version                          = 2
+ 
+[object_66_spawndata]
+        000001                           = 1
+        000002                           = "zone_team_base"
+        000003                           = "bluebyezone"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -447.544928, 1.127506, -380.563712
+        000007                           = 0.000000, 1.573201, -0.000000
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 28
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -194
+        000024                           = ""
+        000025                           = -1
+        000026                           = -1
+        000027                           = 1
+        000028                           = 1
+        000029                           = 8.162708, 0.000000, 0.000000
+        000030                           = 0.000000, 3.440876, 0.000000
+        000031                           = 0.000000, 0.000000, 5.705573
+        000032                           = 0.000000, 0.000000, 0.000000
+        000033                           = 0
+        000034                           = 2
+        fl                               = 0
+        name                             = zone_team_base
+ 
+[object_67]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0026
+        position                         = -415.571872, -0.012232, -325.990720
+        rotation                         = -0.000002, -3.037783, 0.000012
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_68]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0027
+        position                         = -416.457248, 0.114066, -317.602592
+        rotation                         = -0.000002, -3.037783, 0.000012
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_69]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0028
+        position                         = -418.718272, 0.222060, -317.542784
+        rotation                         = -0.000002, -3.037783, 0.000012
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_7]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 2
+        name                             = deathmatch_$rpoint_0001
+        position                         = -383.033536, 0.042218, -339.108832
+        rotation                         = -0.000111, -0.445216, 0.000203
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 0
+        type                             = 0
+        version                          = 23
+ 
+[object_70]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0029
+        position                         = -420.989024, 0.222060, -317.708448
+        rotation                         = -0.000002, -3.037783, 0.000012
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_71]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0031
+        position                         = -422.184160, -0.012045, -321.396192
+        rotation                         = -0.000001, -2.940582, 0.000013
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_72]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0032
+        position                         = -419.787392, -0.011909, -320.074304
+        rotation                         = -0.000001, -2.940582, 0.000013
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_73]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0033
+        position                         = -417.580384, -0.011889, -319.638784
+        rotation                         = -0.000001, -2.940582, 0.000013
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_74]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0034
+        position                         = -416.127584, -0.011909, -321.101120
+        rotation                         = -0.000007, 2.782804, 0.000010
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_75]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0035
+        position                         = -415.913408, -0.012039, -323.527808
+        rotation                         = -0.000007, 2.782804, 0.000010
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_76]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0036
+        position                         = -415.532608, -0.012298, -327.706240
+        rotation                         = -0.000007, 2.782804, 0.000010
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_77]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0037
+        position                         = -416.892640, -0.012300, -328.009472
+        rotation                         = -0.000002, -3.037783, 0.000012
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_78]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0038
+        position                         = -417.535552, -0.012164, -325.349504
+        rotation                         = -0.000002, -3.037783, 0.000012
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_79]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0039
+        position                         = -417.753760, -0.012006, -322.414688
+        rotation                         = -0.000002, -3.037783, 0.000012
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_8]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 2
+        name                             = deathmatch_$rpoint_0002
+        position                         = -382.637056, 0.050544, -370.603680
+        rotation                         = -0.004669, 2.818260, 0.013878
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 0
+        type                             = 0
+        version                          = 23
+ 
+[object_80]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0040
+        position                         = -419.993856, -0.012043, -322.435424
+        rotation                         = -0.000002, -3.037783, 0.000012
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_81]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0041
+        position                         = -422.296672, -0.012146, -323.612768
+        rotation                         = -0.000002, -3.037783, 0.000012
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_82]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0042
+        position                         = -419.227264, -0.012122, -324.097376
+        rotation                         = -0.000002, -3.037783, 0.000012
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_83]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0043
+        position                         = -420.836704, -0.012174, -324.557152
+        rotation                         = -0.000002, -3.037783, 0.000012
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_84]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0044
+        position                         = -422.280160, -0.012253, -325.567648
+        rotation                         = -0.000002, -3.037783, 0.000012
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_85]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0045
+        position                         = -419.091232, -0.012233, -326.101152
+        rotation                         = -0.000002, -3.037783, 0.000012
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_86]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0046
+        position                         = -420.818016, -0.012309, -327.011520
+        rotation                         = -0.000002, -3.037783, 0.000012
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_87]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0047
+        position                         = -421.485024, -0.012424, -328.483616
+        rotation                         = -0.000002, -3.037783, 0.000012
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_88]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0048
+        position                         = -419.083040, -0.012349, -328.241408
+        rotation                         = -0.000002, -3.037783, 0.000012
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 1
+        type                             = 0
+        version                          = 23
+ 
+[object_89]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0050
+        position                         = -422.708992, 0.099013, -386.564800
+        rotation                         = 0.000012, -1.028983, -0.000004
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_9]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 2
+        name                             = deathmatch_$rpoint_0003
+        position                         = -389.474464, 0.043355, -392.005600
+        rotation                         = -0.015557, -0.604571, -0.043858
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 0
+        type                             = 0
+        version                          = 23
+ 
+[object_90]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0051
+        position                         = -424.415936, 0.099013, -386.777696
+        rotation                         = 0.000012, -1.028983, -0.000004
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_91]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0052
+        position                         = -426.526016, 0.116753, -386.485184
+        rotation                         = -0.000012, 1.732217, -0.000001
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_92]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0053
+        position                         = -428.508160, 0.119662, -386.573184
+        rotation                         = -0.000012, 1.732217, -0.000001
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_93]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0054
+        position                         = -423.227616, 0.099013, -388.337248
+        rotation                         = 0.000012, -1.028983, -0.000004
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_94]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0055
+        position                         = -425.422752, 0.099013, -388.006272
+        rotation                         = 0.000012, -1.028983, -0.000004
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_95]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0056
+        position                         = -427.044640, 0.116753, -388.257664
+        rotation                         = -0.000012, 1.732217, -0.000001
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_96]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0057
+        position                         = -429.026752, 0.119662, -388.345632
+        rotation                         = -0.000012, 1.732217, -0.000001
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_97]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0058
+        position                         = -422.295840, 0.099013, -389.759936
+        rotation                         = 0.000012, -1.028983, -0.000004
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_98]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0059
+        position                         = -424.002784, 0.099013, -389.972864
+        rotation                         = 0.000012, -1.028983, -0.000004
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 
+[object_99]
+        clsid                            = 6
+        co_flags                         = 2
+        game_type                        = 24
+        name                             = tdm_green_0060
+        position                         = -426.112896, 0.108000, -389.680352
+        rotation                         = -0.000012, 1.732217, -0.000001
+        rp_profile                       =
+        rp_type                          = 0
+        scale                            = 1.000000, 1.000000, 1.000000
+        team_id                          = 2
+        type                             = 0
+        version                          = 23
+ 

@@ -1,0 +1,456 @@
+[guid]
+        guid_g0                          = 5627317999940724443
+        guid_g1                          = 503233673112752778
+ 
+[main]
+        objects_count                    = 3
+        version                          = 0
+ 
+[modif]
+        name                             =
+        time                             = 0
+ 
+[object_0]
+        clsid                            = 0
+        co_flags                         = 3
+        ingroup_count                    = 5
+        name                             = light_preset\light_alarm_6m
+        position                         = -450.019328, 2.249519, -385.304000
+        ref_name                         = light_preset\light_alarm_6m
+        rotation                         = 0.000000, -1.570796, -1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_0_ingroup_0]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow_0002
+        position                         = -450.019776, 2.250786, -385.092608
+        radius                           = 0.500000
+        rotation                         = 0.000000, -1.570796, -1.570796
+        scale                            = 0.500000, 0.500000, 0.500000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_red2
+        version                          = 18
+ 
+[object_0_ingroup_1]
+        clsid                            = 2
+        co_flags                         = 2
+        flags                            = 0
+        name                             = statics\light\light_alarm_0000
+        position                         = -450.019328, 2.249519, -385.304000
+        reference_name                   = statics\light\light_alarm
+        rotation                         = 0.000000, -1.570796, -1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_0_ingroup_2]
+        anim_ref_name                    =
+        attenuation0                     = 0.180000
+        attenuation1                     = 1.000000
+        attenuation2                     = 1.000000
+        brightness                       = 0.500000
+        clsid                            = 3
+        co_flags                         = 2
+        color                            = 0.894118, 0.678431, 0.368627, 0.000000
+        cone                             = 0.392699
+        fallof_texture                   =
+        light_control                    = 0
+        light_flags                      = 1
+        name                             = light_alarm_6m_ambient
+        position                         = -450.019328, 2.249519, -385.103968
+        range                            = 2.000000
+        rotation                         = 0.000000, -1.570796, -1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 1
+        use_in_d3d                       = on
+        version                          = 17
+        virtual_size                     = 0.000000
+ 
+[object_0_ingroup_3]
+        anim_ref_name                    =
+        attenuation0                     = 0.350000
+        attenuation1                     = 1.000000
+        attenuation2                     = 0.200000
+        brightness                       = 1.000000
+        clsid                            = 3
+        co_flags                         = 2
+        color                            = 0.894118, 0.678431, 0.368627, 0.000000
+        cone                             = 0.392699
+        fallof_texture                   =
+        light_control                    = 0
+        light_flags                      = 3
+        name                             = light_alarm_6m
+        position                         = -450.019328, 2.249519, -384.304000
+        range                            = 6.000000
+        rotation                         = 0.000000, -1.570796, -1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 1
+        use_in_d3d                       = on
+        version                          = 17
+        virtual_size                     = 0.000000
+ 
+[object_0_ingroup_4]
+        clsid                            = 6
+        co_flags                         = 2
+        name                             = light_alarm_glass
+        position                         = -450.019328, 2.249519, -385.304000
+        rotation                         = 0.000000, -1.570796, -1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_0_ingroup_4_spawndata]
+        000001                           = 1
+        000002                           = "lights_hanging_lamp"
+        000003                           = "light_alarm_glass"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -450.019328, 2.249519, -385.304000
+        000007                           = 0.000000, -1.570796, -1.570796
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -198
+        000024                           = "[collide]
+ignore_static"
+        000025                           = -1
+        000026                           = -1
+        000027                           = "dynamics\light\light_alarm_glass"
+        000028                           = 0
+        000029                           = "$editor"
+        000030                           = 0
+        000031                           = 65535
+        000032                           = -96238
+        000033                           = 1.000000
+        000034                           = ""
+        000035                           = 6.000000
+        000036                           = 10
+        000037                           = "$editor"
+        000038                           = "link"
+        000039                           = 100.000000
+        000040                           = 0.100000
+        000041                           = 2.000000
+        000042                           = 0.200000
+        000043                           = ""
+        000044                           = ""
+        000045                           = "bone_lamp"
+        000046                           = 2.094395
+        000047                           = ""
+        000048                           = 0.700000
+        000049                           = "bone_omni"
+        000050                           = 1.000000
+        000051                           = 1.000000
+        000052                           = 1.000000
+        fl                               = 0
+        name                             = lights_hanging_lamp
+ 
+[object_1]
+        clsid                            = 0
+        co_flags                         = 3
+        ingroup_count                    = 5
+        name                             = light_preset\light_alarm_6m_0000
+        position                         = -455.151296, 2.939792, -375.423008
+        ref_name                         = light_preset\light_alarm_6m
+        rotation                         = 0.000000, -1.570789, -1.570786
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_1_ingroup_0]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow_0000
+        position                         = -455.151776, 2.941061, -375.211648
+        radius                           = 0.500000
+        rotation                         = 0.000000, -1.570789, -1.570786
+        scale                            = 0.500000, 0.500000, 0.500000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_red2
+        version                          = 18
+ 
+[object_1_ingroup_1]
+        clsid                            = 2
+        co_flags                         = 2
+        flags                            = 0
+        name                             = statics\light\light_alarm_0001
+        position                         = -455.151296, 2.939792, -375.423008
+        reference_name                   = statics\light\light_alarm
+        rotation                         = 0.000000, -1.570789, -1.570786
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_1_ingroup_2]
+        anim_ref_name                    =
+        attenuation0                     = 0.180000
+        attenuation1                     = 1.000000
+        attenuation2                     = 1.000000
+        brightness                       = 0.500000
+        clsid                            = 3
+        co_flags                         = 2
+        color                            = 0.894118, 0.678431, 0.368627, 0.000000
+        cone                             = 0.392699
+        fallof_texture                   =
+        light_control                    = 0
+        light_flags                      = 1
+        name                             = light_alarm_6m_ambient_0000
+        position                         = -455.151296, 2.939795, -375.222976
+        range                            = 2.000000
+        rotation                         = 0.000000, -1.570789, -1.570786
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 1
+        use_in_d3d                       = on
+        version                          = 17
+        virtual_size                     = 0.000000
+ 
+[object_1_ingroup_3]
+        anim_ref_name                    =
+        attenuation0                     = 0.350000
+        attenuation1                     = 1.000000
+        attenuation2                     = 0.200000
+        brightness                       = 1.000000
+        clsid                            = 3
+        co_flags                         = 2
+        color                            = 0.894118, 0.678431, 0.368627, 0.000000
+        cone                             = 0.392699
+        fallof_texture                   =
+        light_control                    = 0
+        light_flags                      = 3
+        name                             = light_alarm_6m_0000
+        position                         = -455.151296, 2.939802, -374.423008
+        range                            = 6.000000
+        rotation                         = 0.000000, -1.570789, -1.570786
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 1
+        use_in_d3d                       = on
+        version                          = 17
+        virtual_size                     = 0.000000
+ 
+[object_1_ingroup_4]
+        clsid                            = 6
+        co_flags                         = 2
+        name                             = light_alarm_glass_0000
+        position                         = -455.151296, 2.939792, -375.423008
+        rotation                         = 0.000000, -1.570789, -1.570786
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_1_ingroup_4_spawndata]
+        000001                           = 1
+        000002                           = "lights_hanging_lamp"
+        000003                           = "light_alarm_glass_0000"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -455.151296, 2.939792, -375.423008
+        000007                           = 0.000000, -1.570789, -1.570786
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -198
+        000024                           = "[collide]
+ignore_static"
+        000025                           = -1
+        000026                           = -1
+        000027                           = "dynamics\light\light_alarm_glass"
+        000028                           = 0
+        000029                           = "$editor"
+        000030                           = 0
+        000031                           = 65535
+        000032                           = -96238
+        000033                           = 1.000000
+        000034                           = ""
+        000035                           = 6.000000
+        000036                           = 10
+        000037                           = "$editor"
+        000038                           = "link"
+        000039                           = 100.000000
+        000040                           = 0.100000
+        000041                           = 2.000000
+        000042                           = 0.200000
+        000043                           = ""
+        000044                           = ""
+        000045                           = "bone_lamp"
+        000046                           = 2.094395
+        000047                           = ""
+        000048                           = 0.700000
+        000049                           = "bone_omni"
+        000050                           = 1.000000
+        000051                           = 1.000000
+        000052                           = 1.000000
+        fl                               = 0
+        name                             = lights_hanging_lamp
+ 
+[object_2]
+        clsid                            = 0
+        co_flags                         = 3
+        ingroup_count                    = 5
+        name                             = light_preset\light_alarm_6m_0001
+        position                         = -448.416480, 3.206949, -375.876992
+        ref_name                         = light_preset\light_alarm_6m
+        rotation                         = 0.000000, -1.570796, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_2_ingroup_0]
+        clsid                            = 1
+        co_flags                         = 2
+        flags                            = 0
+        name                             = glow_0001
+        position                         = -448.416928, 3.205682, -376.088352
+        radius                           = 0.500000
+        rotation                         = 0.000000, -1.570796, 1.570796
+        scale                            = 0.500000, 0.500000, 0.500000
+        shader_name                      = effects\glow
+        texture_name                     = glow\glow_red2
+        version                          = 18
+ 
+[object_2_ingroup_1]
+        clsid                            = 2
+        co_flags                         = 2
+        flags                            = 0
+        name                             = statics\light\light_alarm_0002
+        position                         = -448.416480, 3.206949, -375.876992
+        reference_name                   = statics\light\light_alarm
+        rotation                         = 0.000000, -1.570796, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        version                          = 18
+ 
+[object_2_ingroup_2]
+        anim_ref_name                    =
+        attenuation0                     = 0.180000
+        attenuation1                     = 1.000000
+        attenuation2                     = 1.000000
+        brightness                       = 0.500000
+        clsid                            = 3
+        co_flags                         = 2
+        color                            = 0.894118, 0.678431, 0.368627, 0.000000
+        cone                             = 0.392699
+        fallof_texture                   =
+        light_control                    = 0
+        light_flags                      = 1
+        name                             = light_alarm_6m_ambient_0001
+        position                         = -448.416480, 3.206949, -376.076992
+        range                            = 2.000000
+        rotation                         = 0.000000, -1.570796, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 1
+        use_in_d3d                       = on
+        version                          = 17
+        virtual_size                     = 0.000000
+ 
+[object_2_ingroup_3]
+        anim_ref_name                    =
+        attenuation0                     = 0.350000
+        attenuation1                     = 1.000000
+        attenuation2                     = 0.200000
+        brightness                       = 1.000000
+        clsid                            = 3
+        co_flags                         = 2
+        color                            = 0.894118, 0.678431, 0.368627, 0.000000
+        cone                             = 0.392699
+        fallof_texture                   =
+        light_control                    = 0
+        light_flags                      = 3
+        name                             = light_alarm_6m_0001
+        position                         = -448.416480, 3.206949, -376.876992
+        range                            = 6.000000
+        rotation                         = 0.000000, -1.570796, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 1
+        use_in_d3d                       = on
+        version                          = 17
+        virtual_size                     = 0.000000
+ 
+[object_2_ingroup_4]
+        clsid                            = 6
+        co_flags                         = 2
+        name                             = light_alarm_glass_0001
+        position                         = -448.416480, 3.206949, -375.876992
+        rotation                         = 0.000000, -1.570796, 1.570796
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 2
+        version                          = 23
+ 
+[object_2_ingroup_4_spawndata]
+        000001                           = 1
+        000002                           = "lights_hanging_lamp"
+        000003                           = "light_alarm_glass_0001"
+        000004                           = 0
+        000005                           = 254
+        000006                           = -448.416480, 3.206949, -375.876992
+        000007                           = 0.000000, -1.570796, 1.570796
+        000008                           = 0
+        000009                           = 65535
+        000010                           = 65535
+        000011                           = 65535
+        000012                           = 33
+        000013                           = 128
+        000014                           = 65535
+        000015                           = 12
+        000016                           = 0
+        000017                           = 65535
+        000018                           = 0
+        000019                           = 65535
+        000020                           = 0.000000
+        000021                           = 1
+        000022                           = -1
+        000023                           = -198
+        000024                           = "[collide]
+ignore_static"
+        000025                           = -1
+        000026                           = -1
+        000027                           = "dynamics\light\light_alarm_glass"
+        000028                           = 0
+        000029                           = "$editor"
+        000030                           = 0
+        000031                           = 65535
+        000032                           = -96238
+        000033                           = 1.000000
+        000034                           = ""
+        000035                           = 6.000000
+        000036                           = 10
+        000037                           = "$editor"
+        000038                           = "link"
+        000039                           = 100.000000
+        000040                           = 0.100000
+        000041                           = 2.000000
+        000042                           = 0.200000
+        000043                           = ""
+        000044                           = ""
+        000045                           = "bone_lamp"
+        000046                           = 2.094395
+        000047                           = ""
+        000048                           = 0.700000
+        000049                           = "bone_omni"
+        000050                           = 1.000000
+        000051                           = 1.000000
+        000052                           = 1.000000
+        fl                               = 0
+        name                             = lights_hanging_lamp
+ 

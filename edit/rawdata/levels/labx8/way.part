@@ -1,0 +1,507 @@
+[guid]
+        guid_g0                          = 5065284203709945560
+        guid_g1                          = 13177767572218497455
+ 
+[main]
+        objects_count                    = 33
+        version                          = 0
+ 
+[modif]
+        name                             =
+        time                             = 0
+ 
+[object_0]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_snork_jump_01_walk
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 1
+        wp_0_name                        = wp00
+        wp_0_pos                         = -91.798296, -24.312308, 83.155712
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_1]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_snork_jump_01_look
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 1
+        wp_0_name                        = wp00
+        wp_0_pos                         = -91.762016, -24.323184, 81.269752
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_10]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_snork_1_jump_1_look
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 1
+        wp_0_name                        = wp00
+        wp_0_pos                         = -90.439312, -15.938185, 85.460608
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_11]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_snork_1_jump_2_walk
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 1
+        wp_0_name                        = wp00|sig=jump
+        wp_0_pos                         = -89.004816, -15.972101, 78.586072
+        wp_0_selected                    = off
+        wp_count                         = 1
+ 
+[object_12]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_snork_1_jump_2_look
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 1
+        wp_0_name                        = wp00
+        wp_0_pos                         = -89.628352, -15.972101, 77.644608
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_13]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_snork_up
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -91.122768, -15.900000, 91.356712
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_14]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_snork_1_jump
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 1
+        wp_0_name                        = wp00
+        wp_0_pos                         = -94.914400, -20.161972, 74.148560
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_15]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_snork_combat_home
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 1
+        wp_0_name                        = wp00
+        wp_0_pos                         = -83.305032, -24.323184, 83.328472
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_16]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_polter_home
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -79.154608, -10.365618, 58.142144
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_17]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_burer_home
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -56.743720, -22.013444, 88.134160
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_18]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_toilet_burer_1_walk
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 1
+        wp_0_name                        = wp00
+        wp_0_pos                         = -100.941944, -16.003183, 90.511592
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_19]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_toilet_burer_1_look
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 1
+        wp_0_name                        = wp00
+        wp_0_pos                         = -98.744496, -16.003183, 90.495968
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_2]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_snork_jump_02_walk
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 1
+        wp_0_name                        = wp00|sig=kill
+        wp_0_pos                         = -90.947680, -24.323184, 72.131880
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_20]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_toilet_burer_home
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 1
+        wp_0_name                        = wp00
+        wp_0_pos                         = -74.912104, -15.937355, 113.335096
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_21]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_tushkano_1_home
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -76.182456, -23.854476, 59.496700
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_22]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_tushkano_2_home
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -85.350080, -36.622728, 86.167128
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_23]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_lab_home
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -106.409304, -32.401344, 83.287544
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_24]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_tushkano_lab_spawn
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -70.739576, -28.292684, 74.672000
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_25]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_tushkano_upper_spawn
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -70.603160, -20.145876, 64.540444
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_26]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_upper_home
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -75.512176, -16.204550, 64.434928
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_27]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_lift_home
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -66.578180, -24.142540, 73.428824
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_28]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_tushkano_lift_spawn
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -74.737872, -24.339652, 68.036440
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_29]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_controller_home
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -79.284896, -15.997410, 71.931472
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_3]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_snork_jump_02_look
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 1
+        wp_0_name                        = wp00
+        wp_0_pos                         = -91.642272, -24.323184, 72.847240
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_30]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_actor_walk
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 1
+        wp_0_name                        = wp00
+        wp_0_pos                         = -78.073456, 22.276212, 100.754560
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_31]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_actor_look
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 1
+        wp_0_name                        = wp00
+        wp_0_pos                         = -78.133504, 22.276212, 101.902960
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_32]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_body_walk
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 2
+        wp_0_name                        = wp00
+        wp_0_pos                         = -77.056896, -10.365545, 56.429740
+        wp_0_selected                    = off
+        wp_count                         = 1
+ 
+[object_4]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_snork_2_jump_1_walk
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 1
+        wp_0_name                        = wp00
+        wp_0_pos                         = -89.010808, -23.978196, 77.152664
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_5]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_snork_2_jump
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 1
+        wp_0_name                        = wp00
+        wp_0_pos                         = -93.740168, -20.161988, 75.029264
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_6]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_snork_home
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 1
+        wp_0_name                        = wp00
+        wp_0_pos                         = -95.196400, -20.120568, 74.230408
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_7]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_snork_down
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 0
+        wp_0_name                        = wp00
+        wp_0_pos                         = -88.236288, -24.323184, 82.596552
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_8]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_snork_2_jump_1_look
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 1
+        wp_0_name                        = wp00|sig=jump
+        wp_0_pos                         = -90.547288, -24.141182, 76.876464
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
+[object_9]
+        clsid                            = 7
+        co_flags                         = 0
+        name                             = lx8_smart_terrain_snork_1_jump_1_walk
+        position                         = 0.000000, 0.000000, 0.000000
+        rotation                         = 0.000000, 0.000000, 0.000000
+        scale                            = 1.000000, 1.000000, 1.000000
+        type                             = 0
+        version                          = 19
+        wp_0_flags                       = 1
+        wp_0_name                        = wp00
+        wp_0_pos                         = -91.608000, -15.938185, 85.906792
+        wp_0_selected                    = on
+        wp_count                         = 1
+ 
